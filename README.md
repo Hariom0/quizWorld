@@ -21,7 +21,7 @@ A modern, interactive quiz application built with vanilla JS, featuring a stylis
 
 ## 🛠️ Tech Stack
 
-- ** HTML , JS ** - For Frontend
+- **HTML , JS** - For Frontend
 - **Tailwind CSS** — For styling and responsive design
 
 ---
