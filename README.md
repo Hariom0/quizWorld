@@ -2,6 +2,10 @@
 
 A modern, interactive quiz application built with vanilla JS, featuring a stylish UI and the ability to review correct answers after completing the quiz.
 
+## 🖥️ Demo
+
+👉 [View the App](https://hariom0.github.io/quizWorld/ )
+
 ## 🚀 Features
 
 - ✨ Clean and modern user interface
@@ -10,11 +14,8 @@ A modern, interactive quiz application built with vanilla JS, featuring a stylis
 - 🎯 Designed for clarity and ease of use
 - ⚡ Built with **HTMl , Tailwind , JS**  for fast performance
 
-## 🖥️ Demo
 
-👉 [View the App](https://hariom0.github.io/quizWorld/ )
 
-## 📸 Screenshots
 
 
 
